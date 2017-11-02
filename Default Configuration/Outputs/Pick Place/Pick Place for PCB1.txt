@@ -1,0 +1,113 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C17        CAPC0603(1608)55_L    714.567mil     263.78mil    714.567mil    263.779mil    742.126mil     263.78mil  B        180.00 CAP 2.2uF 16V 0603(1608)
+C16        CAPC0402(1005)60_M    713.583mil    344.488mil    713.583mil    344.488mil    693.898mil    344.488mil  B        360.00 CAP 10nF 35V 0402(1005)
+C15        CAPC0402(1005)60_M    712.598mil    306.102mil    712.598mil    306.102mil    732.283mil    306.102mil  B        180.00 CAP 100nF 35V 0402(1005)
+U12        SOT-23-OT5_L       466.535mil    192.913mil    466.535mil    192.913mil    503.937mil    145.669mil  B         90.00 MCP1824T-3002E/OT
+C47        CAPC0603(1608)100_L    572.835mil    270.669mil    572.835mil    270.669mil    600.394mil    270.669mil  B        180.00 CAP 4.7uF 16V 0603(1608)
+C46        CAPC0603(1608)100_L    572.835mil    215.551mil    572.835mil    215.551mil    600.394mil    215.551mil  B        180.00 CAP 1uF 35V 0603(1608)
+C45        CAPC0603(1608)100_L    466.535mil    100.394mil    466.535mil    100.394mil    438.976mil    100.394mil  B          0.00 CAP 1uF 35V 0603(1608)
+D3         SOD-123            693.898mil   1231.299mil    693.898mil   1231.299mil     631.89mil   1231.299mil  T        360.00 Part Number    
+R4         RESC0402(1005)_L    586.614mil   1125.984mil    586.614mil   1125.984mil    586.614mil   1108.268mil  T         90.00 100K 5% 0402(1005)
+IC1        DIODES_SOT-23-3    679.134mil       1125mil    679.134mil       1125mil    633.858mil   1162.402mil  T        360.00 DIODES MOSFET P-CH SOT-23-3
+SW2        OMRON-B3U-3000P_V   1364.173mil    615.158mil   1364.173mil    615.158mil   1364.173mil    548.228mil  T         90.00 B3U-3000P      
+R3         RESC0402(1005)_M     70.866mil    623.031mil     70.866mil    623.032mil     70.866mil    644.685mil  T        270.00 47K 5% 0402(1005)
+R2         RESC0402(1005)_M     28.543mil    623.031mil     28.543mil    623.032mil     28.543mil    644.685mil  T        270.00 47K 5% 0402(1005)
+R1         BOUR-CAY16-J4_V    101.379mil    1013.78mil    101.378mil    1013.78mil     67.913mil    966.535mil  B        360.00 CAY16-103J4LF  
+C32        47309-XXX_3.35mm    149.606mil     914.37mil     70.866mil    900.591mil      71.85mil   1052.165mil  T         90.00 uSD            
+P12        FTSH-105-01-XXX-DV-K   1116.142mil    304.134mil   1116.142mil    304.134mil       1102mil    431.413mil  B        315.00 Cortex M-Debug 
+R23        RESC1206(3216)_L    477.362mil    291.339mil    477.362mil    291.339mil    477.362mil    344.488mil  T        270.00 Jumper 1206(3216)
+SW1        OMRON-B3U-3000P_V   1364.173mil    801.181mil   1364.173mil    801.181mil   1364.173mil    734.252mil  T         90.00 B3U-3000P      
+C44        CAPC0603(1608)100_L    425.197mil     914.37mil    425.197mil     914.37mil    425.197mil    886.811mil  T         90.00 CAP 4.7uF 16V 0603(1608)
+C43        CAPC1210(3225)280_L   1044.291mil   1218.504mil   1044.291mil   1218.504mil   1099.409mil   1218.504mil  B        180.00 CAP 4.7uF 50V 1210(3225)
+C42        CAPC1210(3225)280_L   1044.291mil   1349.409mil   1044.291mil   1349.409mil   1099.409mil   1349.409mil  B        180.00 CAP 4.7uF 50V 1210(3225)
+R16        RESC0402(1005)_L    410.433mil    780.512mil    410.433mil    780.512mil    410.433mil    798.228mil  B        270.00 10K 5% 0402(1005)
+U3         DRL0005A_M         337.599mil    780.512mil    337.599mil    780.512mil    378.937mil    800.197mil  B        180.00 SN74LVC1G86DRLR
+U7         SOP28              939.961mil    709.646mil    939.961mil    709.646mil   1058.071mil    543.307mil  T        180.00 MAX7456        
+R15        RESC0402(1005)_L    554.134mil     60.039mil    554.134mil     60.039mil    554.134mil     77.756mil  T        270.00 75R 5% 0402(1005)
+R14        RESC0402(1005)_L    762.795mil    749.016mil    762.795mil    749.016mil    762.795mil    766.732mil  T        270.00 10K 5% 0402(1005)
+R13        RESC0402(1005)_N   1140.748mil    687.992mil   1140.748mil    687.992mil   1160.433mil    687.992mil  B        180.00 10K 5% 0402(1005)
+R12        RESC0603(1608)_N    652.559mil    126.969mil    652.559mil    126.969mil    684.055mil    126.969mil  B        180.00 75R 5% 0603(1608)
+P9         3PADS              715.551mil     56.102mil    715.551mil     56.102mil    815.551mil     56.102mil  T        180.00 3 Pads         
+P8         3PADS              715.551mil     56.102mil    715.551mil     56.102mil    815.551mil     56.102mil  B        180.00 3 Pads         
+C35        CAPC1206(3216)190_M    715.551mil    197.834mil    715.551mil    197.835mil    715.551mil    260.827mil  T        270.00 CAP 47uF 16V 1206(3216)
+C34        CAPC1206(3216)190_M    613.189mil    197.834mil    613.189mil    197.835mil    613.189mil    260.827mil  T        270.00 CAP 47uF 16V 1206(3216)
+C33        CAPC0603(1608)100_N    774.606mil    126.969mil    774.606mil    126.969mil    806.102mil    126.969mil  B        180.00 CAP 100nF 25V 0603(1608)
+*          TSX-3225          1237.205mil    656.496mil   1237.205mil    656.496mil   1205.709mil    699.803mil  T        270.00 Crystal Oscillator 3225
+R11        RESC0402(1005)_M    298.228mil    382.874mil    298.228mil    382.874mil    276.575mil    382.874mil  T          0.00 22R 5% 0402(1005)
+R10        RESC0402(1005)_M    298.228mil    422.244mil    298.228mil    422.244mil    276.575mil    422.244mil  T          0.00 22R 5% 0402(1005)
+R9         RESC0402(1005)_L     928.15mil   1280.512mil     928.15mil   1280.512mil     928.15mil   1262.795mil  T         90.00 1K 5% 0402(1005)
+R8         RESC0402(1005)_L    833.662mil   1280.512mil    833.662mil   1280.512mil    833.662mil   1262.795mil  T         90.00 1K 5% 0402(1005)
+R7         RESC0402(1005)_L    880.906mil   1280.512mil    880.906mil   1280.512mil    880.906mil   1262.795mil  T         90.00 1K 5% 0402(1005)
+DS3        VISH-TLMX1100-2_V     928.15mil   1367.126mil     928.15mil   1367.126mil     928.15mil   1395.669mil  T        270.00 TLMB1100-GS08  
+DS2        VISH-TLMX1100_V    833.662mil   1367.126mil    833.662mil   1367.126mil    833.662mil   1395.669mil  T        270.00 TLMS1100-GS08  
+DS1        VISH-TLMX1100-2_V    880.906mil   1367.126mil    880.906mil   1367.126mil    880.906mil   1395.669mil  T        270.00 TLMB1100-GS08  
+U6         SOT-23-OT5_L       330.709mil    911.417mil    330.709mil    911.417mil    283.465mil    948.819mil  T        360.00 MCP1824T-3002E/OT
+U5         TI_WSON-10_SD      699.803mil   1319.882mil    699.803mil   1319.882mil    645.669mil   1280.512mil  B        360.00 LM5360x        
+U4         HLGA10            1089.567mil   1154.523mil   1089.567mil   1154.523mil   1053.347mil   1166.334mil  T        360.00 LPS25HB        
+U2         MURA-CSTCE_V-3_V   1073.819mil    768.701mil   1073.819mil    768.701mil   1073.819mil    806.102mil  B        270.00 CSTCE8         
+U1         STM-LQFP64_M       707.677mil    709.646mil    707.677mil    709.646mil     928.15mil    857.284mil  B        180.00 STM32F405RGT6  
+R20        RESC0402(1005)_L    772.638mil   1034.449mil    772.638mil   1034.449mil     760.11mil   1021.921mil  B         45.00 100K 5% 0402(1005)
+P7         2Pads              689.764mil   1359.252mil    639.764mil   1359.252mil    639.764mil   1359.252mil  T          0.00 2Pads          
+P6         2Pads              411.417mil    120.276mil    411.417mil    170.276mil    411.417mil    170.276mil  T        270.00 2Pads          
+P5         2Pads              985.236mil    116.339mil    985.236mil    166.339mil    985.236mil    166.339mil  T        270.00 2Pads          
+P4         2Pads              315.158mil   1363.189mil    365.158mil   1363.189mil    365.158mil   1363.189mil  T        180.00 2Pads          
+P3         2Pads              278.543mil    120.275mil    278.543mil    170.275mil    278.543mil    170.275mil  T        270.00 2Pads          
+P2         2Pads             1120.079mil    115.354mil   1120.079mil    165.354mil   1120.079mil    165.354mil  T        270.00 2Pads          
+P1         2Pads             1072.638mil   1363.189mil   1022.638mil   1363.189mil   1022.638mil   1363.189mil  T        360.00 2Pads          
+L1         INDC2520X100X60ML20T20    530.512mil   1319.882mil    530.512mil   1319.882mil    530.512mil   1273.228mil  B         90.00 LQM2HPN2R2MG0L 
+J1         FCI_USB_10118193-0001LF    116.634mil    410.433mil     65.945mil    410.433mil    169.291mil    461.614mil  T         90.00 USB Micro      
+D1         NXP-SOT23-3_V      224.409mil    616.142mil    224.409mil    616.142mil    263.779mil     578.74mil  T        270.00 BAT54          
+C31        CAPC0603(1608)100_L    479.331mil    858.268mil    479.331mil    858.268mil    479.331mil    830.709mil  T         90.00 CAP 1uF 35V 0603(1608)
+C30        CAPC0603(1608)100_L    330.709mil    813.976mil    330.709mil    813.976mil    358.268mil    813.976mil  T        180.00 CAP 1uF 35V 0603(1608)
+C29        CAPC0603(1608)100_N     567.21mil   1358.267mil     567.21mil   1358.268mil     567.21mil   1389.764mil  T        270.00 CAP 4.7uF 16V 0603(1608)
+C28        CAPC0603(1608)100_N    439.961mil   1358.268mil    439.961mil   1358.268mil    439.961mil   1389.764mil  T        270.00 CAP 4.7uF 16V 0603(1608)
+C27        CAPC0603(1608)100_N    503.585mil   1358.268mil    503.585mil   1358.268mil    503.585mil   1389.764mil  T        270.00 CAP 4.7uF 16V 0603(1608)
+C26        CAPC0603(1608)100_N    503.585mil   1270.827mil    503.585mil   1270.827mil    472.089mil   1270.827mil  T        360.00 CAP 4.7uF 16V 0603(1608)
+C25        CAPC0603(1608)100_N    439.961mil   1319.882mil    439.961mil   1319.882mil    439.961mil   1288.386mil  B         90.00 CAP 1uF 6.3V 0603(1608)
+C24        CAPC0805(2012)100_M    839.567mil   1312.008mil    839.567mil   1312.008mil    839.567mil   1351.378mil  B        270.00 CAP 100nF 50V 0805(2012)
+C23        CAPC0805(2012)145_M    917.323mil   1312.008mil    917.323mil   1312.008mil    917.323mil   1272.638mil  B         90.00 CAP 4.7uF 50V 0805(2012)
+C22        CAPC0805(2012)100_M    487.205mil   1205.709mil    487.205mil   1205.709mil    447.835mil   1205.709mil  B        360.00 CAP 100nF 50V 0805(2012)
+C21        CAPC0402(1005)60_L   1180.118mil    725.394mil   1180.118mil    725.394mil   1195.866mil    725.394mil  B        180.00 CAP 100nF 35V 0402(1005)
+C20        CAPC0402(1005)60_L   1089.567mil   1229.331mil   1089.567mil   1229.331mil   1073.819mil   1229.331mil  T        360.00 CAP 100nF 35V 0402(1005)
+C19        CAPC0603(1608)100_L    999.016mil   1197.835mil    999.016mil   1197.835mil    999.016mil   1170.276mil  T         90.00 CAP 1uF 6.3V 0603(1608)
+C18        CAPC0402(1005)60_L    814.961mil    206.693mil    814.961mil    206.693mil    830.709mil    206.693mil  B        180.00 CAP 100nF 25V 0402(1005)
+C14        CAPC0402(1005)60_M   1010.827mil    630.905mil   1010.827mil    630.905mil   1030.512mil    630.905mil  B        180.00 CAP 10nF 35V 0402(1005)
+C13        CAPC0603(1608)100_N    479.331mil    445.866mil    479.331mil    445.866mil    447.835mil    445.866mil  B        360.00 CAP 1uF 6.3V 0603(1608)
+C12        CAPC0603(1608)100_M    384.842mil    930.118mil    384.843mil    930.118mil    384.842mil    965.551mil  B        270.00 CAP 4.7uF 6.3V 0603(1608)
+C11        CAPC0402(1005)60_L    502.953mil    489.173mil    502.953mil    489.173mil    487.205mil    489.173mil  B          0.00 CAP 100nF 35V 0402(1005)
+C10        CAPC0402(1005)60_L    845.472mil    422.244mil    845.472mil    422.244mil    861.221mil    422.244mil  B        180.00 CAP 100nF 35V 0402(1005)
+C9         CAPC0402(1005)60_L    991.142mil    894.685mil    991.142mil    894.685mil    1006.89mil    894.685mil  B        180.00 CAP 100nF 35V 0402(1005)
+C8         CAPC0402(1005)60_L    920.275mil    970.472mil    920.276mil    970.472mil    931.411mil    981.608mil  B        225.00 CAP 100nF 35V 0402(1005)
+C7         CAPC0402(1005)60_L    432.087mil    898.622mil    432.087mil    898.622mil    432.087mil     914.37mil  B        270.00 CAP 100nF 35V 0402(1005)
+C6         CAPC0603(1608)100_L    479.331mil    390.748mil    479.331mil    390.748mil    451.772mil    390.748mil  B        360.00 CAP 2.2uF 6.3V 0603(1608)
+C5         CAPC0603(1608)100_L    329.724mil     914.37mil    329.724mil     914.37mil    329.724mil    941.929mil  B        270.00 CAP 2.2uF 6.3V 0603(1608)
+C3         SM04B-SRSS-TB      130.901mil    410.433mil    128.937mil    410.433mil    206.939mil    351.378mil  B         90.00 SM04B-SRSS-TB  
+C2         SM04B-SRSS-TB     1288.391mil   1044.291mil   1290.354mil   1044.291mil   1212.352mil    985.236mil  T         90.00 SM04B-SRSS-TB  
+C1         SM04B-SRSS-TB     1289.375mil    359.252mil   1291.339mil    359.252mil   1213.337mil    300.197mil  T         90.00 SM04B-SRSS-TB  
+C36        CAPC0402(1005)60_L   1313.976mil     953.74mil   1313.976mil     953.74mil   1298.228mil     953.74mil  B        360.00 CAP 100nF 35V 0402(1005)
+C37        CAPC0402(1005)60_L   1373.032mil    772.638mil   1373.032mil    772.638mil   1373.032mil     756.89mil  B         90.00 CAP 220nF 25V 0402(1005)
+C38        CAPC0603(1608)100_L   1294.291mil    764.764mil   1294.291mil    764.764mil   1266.732mil    764.764mil  B        360.00 CAP 4.7uF 16V 0603(1608)
+U9         LCC16             1313.974mil    867.132mil   1313.974mil    867.132mil   1284.447mil    917.328mil  B        270.00 HMC5983        
+U8         LCC16              833.661mil    288.386mil    833.662mil    288.386mil    794.291mil    336.614mil  B        270.00 ICM-20602 - 6DOF
+D2         NXP-SOT23-3_V      294.291mil    221.457mil    294.291mil    221.457mil    333.661mil    258.858mil  B         90.00 BAT54          
+R17        RESC0402(1005)_L    286.417mil    544.291mil    286.417mil    544.291mil    286.417mil    526.575mil  B         90.00 10K 5% 0402(1005)
+U10        DCU0008A_M         313.976mil     414.37mil    313.976mil     414.37mil    284.449mil    481.299mil  B        270.00 SN74LVC2G86DCUT
+J2         Jumper             270.669mil    290.354mil    270.669mil    319.882mil    270.669mil    319.882mil  T        270.00 Jumper         
+R18        RESC0402(1005)_L    886.417mil   1168.884mil    886.417mil   1168.885mil    886.417mil   1186.601mil  B        270.00 10K 5% 0402(1005)
+R19        RESC0402(1005)_L    845.472mil   1168.307mil    845.472mil   1168.307mil    845.472mil   1150.591mil  B         90.00 1K 5% 0402(1005)
+C39        CAPC0402(1005)60_L    727.362mil    749.016mil    727.362mil    749.016mil    727.362mil    764.764mil  T        270.00 CAP 100nF 35V 0402(1005)
+C40        CAPC0402(1005)60_L    707.677mil    634.842mil    707.677mil    634.842mil    696.542mil    623.707mil  T         45.00 CAP 100nF 35V 0402(1005)
+C41        CAPC0402(1005)60_L   1128.937mil    607.283mil   1128.937mil    607.283mil   1128.937mil    623.031mil  T        270.00 CAP 100nF 35V 0402(1005)
+P10        2Pads              312.795mil   1219.488mil    262.795mil   1219.488mil    262.795mil   1219.488mil  T        360.00 2 Pads         
+R21        RESC0402(1005)_N    475.394mil    991.142mil    475.394mil    991.142mil    495.079mil    991.142mil  T        180.00 200R 5% 0402(1005)
+R22        RESC0402(1005)_L    474.409mil   1033.465mil    474.409mil   1033.465mil    492.126mil   1033.465mil  T        180.00 110K 5% 0402(1005)
+U11        SOT23-3            475.394mil   1136.319mil    512.795mil    1092.52mil    437.992mil    1092.52mil  T         90.00 Si2342DS       
+P11        3Pads             1348.425mil    528.543mil   1348.425mil    528.543mil   1348.425mil    628.543mil  B        270.00 3 Pads         
+TP1        TP                1140.748mil    628.937mil   1140.748mil    628.937mil   1140.748mil    628.937mil  B         90.00 Test Point     
+R24        RESC0402(1005)_M     664.37mil    325.787mil     664.37mil    325.787mil    642.717mil    325.787mil  T        360.00 47K 5% 0402(1005)
+F1         F0805              309.055mil    495.079mil    309.055mil    495.079mil    274.606mil    495.079mil  T          0.00 PTC Resettable Fuse
+P13        2Pads              121.063mil    728.346mil    121.063mil    778.543mil    121.063mil    767.716mil  B        270.00 2 Pads         
+C4         SM04B-SRSS-TB      127.948mil    730.315mil    125.984mil    730.315mil    203.986mil     671.26mil  B         90.00 SM04B-SRSS-TB  
+P14        2Pads              283.464mil   1249.213mil    283.464mil   1299.213mil    283.464mil   1299.213mil  B        270.00 2 Pads         
+

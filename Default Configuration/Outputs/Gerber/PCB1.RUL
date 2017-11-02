@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\DUCKF4 V2 (small sd)\PCB1.CSPcbDoc
+RuleKind=Width|RuleName=5VW|Scope=Board|Minimum=6.30
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.30
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.30
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
