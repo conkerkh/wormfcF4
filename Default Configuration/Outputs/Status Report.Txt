@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 20:52:28 On 02.11.2017
+Start Output Generation At 01:11:54 On 07.11.2017
 
 Output: BOM_PartType
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [[No Variations]] of Project [DUCKF4 V2 - small.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 20:52:35 On 02.11.2017
+Finished Output Generation At 01:12:00 On 07.11.2017
